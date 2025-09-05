@@ -3,6 +3,7 @@
 ## Straight to usage
 - This is extremely unfinished, updates are rare, submit an issue if u would like a feature added.
 - This is a modified st7)aler only modified by me. do what you will with this information
+- No i will not add a dualhook to this stop being poor weirdos
 
 ## Original:
 - asfar as im aware the original version of this was made by DarkScripts, if this is not the case please educate me
